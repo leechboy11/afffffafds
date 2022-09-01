@@ -1,0 +1,7 @@
+username='amir'
+secret='amir'
+url='cafebazaar.ir'
+aa='leechboy11'
+DB_PASSWORD='sdfasdfsdfsdfsdf'
+password='dsfsdfsdafsda32'
+root='dsfsjdlkfs'
