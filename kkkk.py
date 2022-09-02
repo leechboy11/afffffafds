@@ -5,3 +5,6 @@ aa='leechboy11'
 DB_PASSWORD='sdfasdfsdfsdfsdf'
 password='dsfsdfsdafsda32'
 root='dsfsjdlkfs'
+leechboy11@fff.com
+leechboy11.com
+google.com
